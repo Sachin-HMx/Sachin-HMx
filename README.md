@@ -12,7 +12,9 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-|  |  | **[More](link)** |  |
+<p align="center">
+  <a href="link">More</a>
+</p>
 
 ---
 
