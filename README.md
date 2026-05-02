@@ -25,7 +25,7 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+| Yield Tranching Explained | Structured Yield | Yield tranching splits a single pool into risk layers allowing predictable returns for institutions and higher yield for risk takers | [View] (https://x.com/SachinHMx/status/2040393782441771018?s=20) |
 <p align="center">
 <a href="https://github.com/Sachin-HMx/education">More</a>
 </p>
