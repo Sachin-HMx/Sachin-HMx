@@ -67,7 +67,7 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+| Ethereum L1 zkEVM | ZK Validation Systems | Ethereum replaces re-execution with zk proof validation where blocks are computed once and verified across validators efficiently | [View](https://x.com/SachinHMx/status/2038913345554665790?s=20) |
 <p align="center">
 <a href="https://github.com/Sachin-HMx/technical-breakdowns">More</a>
 </p>
@@ -81,7 +81,7 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+| Risk Tranching Vault | Strata, Midas, Hyperithm | Risk tranching splits a single yield source into layers where junior absorbs losses and earns higher yield premiums | [View](https://x.com/SachinHMx/status/2041051056462025176?s=20) |
 <p align="center">
 <a href="https://github.com/Sachin-HMx/yield-strategies">More</a>
 </p>
