@@ -12,7 +12,7 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+| → More |  |  | [More](link) |
 
 ---
 
