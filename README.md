@@ -11,7 +11,7 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+| DeFi Credit Layer | Tokenized Credit | DeFi lacks real credit as overcollateralized leverage loops dominate while RWAs enable cash flow backed on-chain lending | Link[https://x.com/SachinHMx/status/2046114797310390414?s=20] |
 <p align="center">
   <a href="https://github.com/Sachin-HMx/research">More</a>
 </p>
