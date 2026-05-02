@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**Sachin-HMx/Sachin-HMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sachin
 
-Here are some ideas to get you started:
+[You write your About here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research
+
+| Topic | Type | Focus | Link |
+|------|------|------|------|
+| RWA Credit Layer | Deep Research | Why DeFi lending is broken + RWA solution | Read |
+
+---
+
+## 🧩 Protocol Breakdowns
+
+| Protocol | Focus | Insight | Link |
+|---------|------|--------|------|
+| Aave | Lending | Liquidity fragmentation issue | Read |
+
+---
+
+## 📦 Product Breakdowns
+
+| Product | Category | Focus | Link |
+|--------|----------|------|------|
+| Friend.tech | SocialFi | Retention failure | Read |
+
+---
+
+## ⚙️ Technical Breakdowns
+
+| Topic | Type | Focus | Link |
+|------|------|------|------|
+| FHE Execution Flow | Deep Dive | Privacy execution model | Read |
+
+---
+
+## 💰 Yield Farming & Strategies
+
+| Strategy | Chain | Edge | Risk | Link |
+|---------|------|-----|-----|------|
+| Stablecoin Carry | Ethereum | Real yield | Low | Read |
