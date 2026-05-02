@@ -1,6 +1,12 @@
-Hi, I'm Sachin
+# Hi, I’m Sachin
 
-[Write your About here]
+Investor, yield farmer, and trader. I’m active on Crypto Twitter, where I share my research, insights, and opinions.
+
+This GitHub is where I keep my research organized. If you're exploring crypto or learning, you can go through each section here.
+
+None of my posts are financial advice (NFA). Always do your own research.
+
+For queries or business-related inquiries, reach out on Telegram: @SachinHMx
 
 ---
 
