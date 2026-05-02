@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hi, I'm Sachin
 
 [Write your About here]
@@ -10,7 +8,19 @@ Hi, I'm Sachin
 
 | Topic | Category | Insight | Link |
 |------|----------|--------|------|
-| DeFi Credit Layer | Credit / RWA | DeFi recycles capital, not creates credit | [Read](https://x.com/SachinHMx/status/2046114797310390414?s=20) |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+
+---
+
+## 🎓 Education
+
+| Topic/Project | Category | Insight | Link |
+|--------------|----------|--------|------|
+| abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
@@ -20,46 +30,46 @@ Hi, I'm Sachin
 
 ## 🧩 Protocol Research
 
-| Protocol | Category | Focus | Insight | Link |
-|---------|----------|------|--------|------|
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
+| Protocol | Category | Insight | Link |
+|----------|----------|--------|------|
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
 
 ---
 
-## 📦 Product Breakdown / Research
+## 📦 Product Research / Breakdown
 
-| Protocol | Category | Focus | Insight | Link |
-|---------|----------|------|--------|------|
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
+| Protocol | Category | Insight | Link |
+|----------|----------|--------|------|
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
 
 ---
 
 ## ⚙️ Technical Breakdowns
 
-| Topic | Protocol/s | Category | Insight | Link |
-|------|------------|----------|--------|------|
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
+| Topic/Protocol | Category | Insight | Link |
+|----------------|----------|--------|------|
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
 
 ---
 
 ## 💰 Yield Strategies & Farming
 
-| Strategy | Project/s | Category | Insight | Risk | Link |
-|---------|------------|----------|--------|------|------|
-| abc | abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc | abc |
+| Strategy | Project/s | Insight | Link |
+|----------|------------|--------|------|
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
