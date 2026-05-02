@@ -83,5 +83,5 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 <p align="center">
-  <a href="link">More</a>
+<a href="https://github.com/Sachin-HMx/yield-strategies">More</a>
 </p>
