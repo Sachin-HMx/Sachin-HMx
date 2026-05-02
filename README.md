@@ -18,7 +18,7 @@ Hi, I'm Sachin
 
 ---
 
-## 🎓 Education
+## 🎓 DeFi Fundamentals
 
 | Topic/Project | Category | Insight | Link |
 |--------------|----------|--------|------|
