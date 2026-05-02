@@ -1,45 +1,65 @@
 ## Hi there 👋
 
-I'm Sachin
+Hi, I'm Sachin
 
-[You write your About here]
+[Write your About here]
 
 ---
 
 ## 🔬 Research
 
-| Topic | Type | Focus | Link |
-|------|------|------|------|
-| RWA Credit Layer | Deep Research | Why DeFi lending is broken + RWA solution | Read |
+| Topic | Category | Focus | Insight | Link |
+|------|----------|------|--------|------|
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
 
 ---
 
-## 🧩 Protocol Breakdowns
+## 🧩 Protocol Research
 
-| Protocol | Focus | Insight | Link |
-|---------|------|--------|------|
-| Aave | Lending | Liquidity fragmentation issue | Read |
+| Protocol | Category | Focus | Insight | Link |
+|---------|----------|------|--------|------|
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
 
 ---
 
-## 📦 Product Breakdowns
+## 📦 Product Breakdown / Research
 
-| Product | Category | Focus | Link |
-|--------|----------|------|------|
-| Friend.tech | SocialFi | Retention failure | Read |
+| Protocol | Category | Focus | Insight | Link |
+|---------|----------|------|--------|------|
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
 
 ---
 
 ## ⚙️ Technical Breakdowns
 
-| Topic | Type | Focus | Link |
-|------|------|------|------|
-| FHE Execution Flow | Deep Dive | Privacy execution model | Read |
+| Topic | Protocol/s | Category | Insight | Link |
+|------|------------|----------|--------|------|
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc |
 
 ---
 
-## 💰 Yield Farming & Strategies
+## 💰 Yield Strategies & Farming
 
-| Strategy | Chain | Edge | Risk | Link |
-|---------|------|-----|-----|------|
-| Stablecoin Carry | Ethereum | Real yield | Low | Read |
+| Strategy | Project/s | Category | Insight | Risk | Link |
+|---------|------------|----------|--------|------|------|
+| abc | abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc | abc |
+| abc | abc | abc | abc | abc | abc |
