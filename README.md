@@ -8,13 +8,13 @@ Hi, I'm Sachin
 
 ## 🔬 Research
 
-| Topic | Category | Focus | Insight | Link |
-|------|----------|------|--------|------|
-| DeFi Credit Layer | Market Structure / Credit | Why DeFi lending fails at credit + shift to RWA-based credit layer | DeFi is not creating credit, only recycling capital via overcollateralized loops; real unlock comes from tokenized RWAs enabling cash-flow-based lending and a multi-layer credit stack | [Read](https://x.com/SachinHMx/status/2046114797310390414?s=20) |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
-| abc | abc | abc | abc | abc |
+| Topic | Category | Insight | Link |
+|------|----------|--------|------|
+| DeFi Credit Layer | Credit / RWA | DeFi recycles capital, not creates credit | [Read](https://x.com/SachinHMx/status/2046114797310390414?s=20) |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
 
 ---
 
