@@ -26,7 +26,9 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+<p align="center">
+  <a href="link">More</a>
+</p>
 
 ---
 
@@ -38,7 +40,9 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+<p align="center">
+  <a href="link">More</a>
+</p>
 
 ---
 
@@ -50,7 +54,9 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+<p align="center">
+  <a href="link">More</a>
+</p>
 
 ---
 
@@ -62,7 +68,9 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+<p align="center">
+  <a href="link">More</a>
+</p>
 
 ---
 
@@ -74,4 +82,6 @@ Hi, I'm Sachin
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+<p align="center">
+  <a href="link">More</a>
+</p>
