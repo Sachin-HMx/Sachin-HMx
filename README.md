@@ -45,7 +45,7 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+| Apyx | Onchain Yield | Apyx converts public-market dividend cash flows into scalable onchain yield through Digital Credit markets. | [View](https://x.com/SachinHMx/status/2054135463246811213) |
 <p align="center">
 <a href="https://github.com/Sachin-HMx/protocol-research">More</a>
 </p>
