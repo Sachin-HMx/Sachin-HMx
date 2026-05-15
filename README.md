@@ -8,7 +8,7 @@ This GitHub is where I keep all my research in an organized way. If you’re exp
 
 None of my posts are financial advice (NFA). Please do your own research.
 
-If you have any queries or business-related work, you can reach me on [@SachinHMx](https://t.me/SachinHMx)
+If you have any queries or business-related work, you can reach me on Telegram: [@SachinHMx](https://t.me/SachinHMx)
 
 ---
 
