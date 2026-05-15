@@ -4,7 +4,7 @@ Crypto investor and researcher.
 
 I’m active on Crypto Twitter, sharing my research, insights, and opinions.
 
-This GitHub is where I keep all my research in an organized way. If you’re exploring crypto or learning, you can go through each section here.
+This GitHub is where I keep all my research in an organized way. If you’re exploring crypto/DeFi or learning, you can go through each section here.
 
 None of my posts are financial advice (NFA). Please do your own research.
 
