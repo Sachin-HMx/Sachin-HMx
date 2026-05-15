@@ -59,7 +59,7 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+| Sentora, Morpho, Hastra | RWA Credit Infrastructure | PRIME connects HELOC-backed credit markets with Ethereum stablecoin lending liquidity. | [View](https://x.com/SachinHMx/status/2055245342854217972?s=20) |
 <p align="center">
 <a href="https://github.com/Sachin-HMx/product-research">More</a>
 </p>
