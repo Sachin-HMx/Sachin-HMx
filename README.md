@@ -103,5 +103,5 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
 <p align="center">
-<a href="https://github.com/Sachin-HMx/Protocol-upgradesh">More</a>
+<a href="https://github.com/Sachin-HMx/Protocol-upgrades">More</a>
 </p>
