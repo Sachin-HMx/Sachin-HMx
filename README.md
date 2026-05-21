@@ -26,6 +26,34 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 
 ---
 
+## 💰 Yield Strategies & Farming
+
+| Strategy | Project/s | Insight | Link |
+|----------|------------|--------|------|
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| Structured Credit Yield | Figure, Sentora, Morpho, Hastra | HELOC-backed cash flows are being transformed into on-chain collateralized stablecoin credit markets. | [View](https://x.com/SachinHMx/status/2055573180300038641?s=20) |
+| Risk Tranching Vault | Strata, Midas, Hyperithm | Risk tranching splits a single yield source into layers where junior absorbs losses and earns higher yield premiums | [View](https://x.com/SachinHMx/status/2041051056462025176?s=20) |
+<p align="center">
+<a href="https://github.com/Sachin-HMx/yield-strategies">More</a>
+</p>
+
+---
+
+## ⚙️ Technical Breakdowns
+
+| Topic/Protocol | Category | Insight | Link |
+|----------------|----------|--------|------|
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| ERC 8211 Smart Execution Model | Intent Based Execution | ERC 8211 enables dynamic transactions by resolving parameters at runtime eliminating failed executions and leftover dust in DeFi flows | [View](https://x.com/SachinHMx/status/2041787089340264835) |
+| Ethereum L1 zkEVM | ZK Validation Systems | Ethereum replaces re-execution with zk proof validation where blocks are computed once and verified across validators efficiently | [View](https://x.com/SachinHMx/status/2038913345554665790?s=20) |
+<p align="center">
+<a href="https://github.com/Sachin-HMx/technical-breakdowns">More</a>
+</p>
+
+---
+
 ## 🎓 DeFi Fundamentals
 
 | Topic/Project | Category | Insight | Link |
@@ -68,28 +96,12 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 
 ---
 
-## ⚙️ Technical Breakdowns
-
-| Topic/Protocol | Category | Insight | Link |
-|----------------|----------|--------|------|
+## ⛓️‍💥 Protocol upgrades
+| Protocol | Category | Insight | Link |
+|----------|----------|--------|------|
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| ERC 8211 Smart Execution Model | Intent Based Execution | ERC 8211 enables dynamic transactions by resolving parameters at runtime eliminating failed executions and leftover dust in DeFi flows | [View](https://x.com/SachinHMx/status/2041787089340264835) |
-| Ethereum L1 zkEVM | ZK Validation Systems | Ethereum replaces re-execution with zk proof validation where blocks are computed once and verified across validators efficiently | [View](https://x.com/SachinHMx/status/2038913345554665790?s=20) |
+| abc | abc | abc | abc |
 <p align="center">
-<a href="https://github.com/Sachin-HMx/technical-breakdowns">More</a>
-</p>
-
----
-
-## 💰 Yield Strategies & Farming
-
-| Strategy | Project/s | Insight | Link |
-|----------|------------|--------|------|
-| abc | abc | abc | abc |
-| abc | abc | abc | abc |
-| Structured Credit Yield | Figure, Sentora, Morpho, Hastra | HELOC-backed cash flows are being transformed into on-chain collateralized stablecoin credit markets. | [View](https://x.com/SachinHMx/status/2055573180300038641?s=20) |
-| Risk Tranching Vault | Strata, Midas, Hyperithm | Risk tranching splits a single yield source into layers where junior absorbs losses and earns higher yield premiums | [View](https://x.com/SachinHMx/status/2041051056462025176?s=20) |
-<p align="center">
-<a href="https://github.com/Sachin-HMx/yield-strategies">More</a>
+<a href="https://github.com/Sachin-HMx/Protocol-upgradesh">More</a>
 </p>
