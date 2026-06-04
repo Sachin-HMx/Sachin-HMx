@@ -12,7 +12,7 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 
 ---
 
-## 🔬 Research
+## 🔬 Narrative / Industry Research
 
 | Topic | Category | Insight | Link |
 |------|----------|--------|------|
