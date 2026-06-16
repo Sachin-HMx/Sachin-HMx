@@ -26,6 +26,34 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 
 ---
 
+## 🧩 Protocol Research
+
+| Protocol | Category | Insight | Link |
+|----------|----------|--------|------|
+| abc | abc | abc | abc |
+| Royco | Yield Tranching | Dynamic Yield Distribution Model combines Adaptive Yield Curves and Observation Periods to dynamically price first-loss capital. | [View](https://x.com/SachinHMx/status/2066850967606431817) |
+| Courtyard, Phygitals, Collector Crypt, Beezie | Tokenized Collectibles | Comparing infrastructure, liquidity, token incentives, and entertainment models across leading TCG collectible protocols. | [View](https://x.com/SachinHMx/status/2054885938384498905?s=20) |
+| Apyx | Onchain Yield | Apyx converts public-market dividend cash flows into scalable onchain yield through Digital Credit markets. | [View](https://x.com/SachinHMx/status/2054135463246811213) |
+<p align="center">
+<a href="https://github.com/Sachin-HMx/protocol-research">More</a>
+</p>
+
+---
+
+## 📦 Product Research / Breakdown
+
+| Protocol | Category | Insight | Link |
+|----------|----------|--------|------|
+| abc | abc | abc | abc |
+| abc | abc | abc | abc |
+| Aave V4 | Lending | Hub-and-Spoke design unifies liquidity while enabling risk-isolated markets and efficient capital allocation. | [View](https://x.com/SachinHMx/status/2066527299017773276) |
+| Sentora, Morpho, Hastra | RWA Credit Infrastructure | PRIME connects HELOC-backed credit markets with Ethereum stablecoin lending liquidity. | [View](https://x.com/SachinHMx/status/2055245342854217972?s=20) |
+<p align="center">
+<a href="https://github.com/Sachin-HMx/product-research">More</a>
+</p>
+
+---
+
 ## 💰 Yield Strategies & Farming
 
 | Strategy | Project/s | Insight | Link |
@@ -68,40 +96,5 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 
 ---
 
-## 🧩 Protocol Research
 
-| Protocol | Category | Insight | Link |
-|----------|----------|--------|------|
-| abc | abc | abc | abc |
-| abc | abc | abc | abc |
-| Courtyard, Phygitals, Collector Crypt, Beezie | Tokenized Collectibles | Comparing infrastructure, liquidity, token incentives, and entertainment models across leading TCG collectible protocols. | [View](https://x.com/SachinHMx/status/2054885938384498905?s=20) |
-| Apyx | Onchain Yield | Apyx converts public-market dividend cash flows into scalable onchain yield through Digital Credit markets. | [View](https://x.com/SachinHMx/status/2054135463246811213) |
-<p align="center">
-<a href="https://github.com/Sachin-HMx/protocol-research">More</a>
-</p>
 
----
-
-## 📦 Product Research / Breakdown
-
-| Protocol | Category | Insight | Link |
-|----------|----------|--------|------|
-| abc | abc | abc | abc |
-| abc | abc | abc | abc |
-| abc | abc | abc | abc |
-| Sentora, Morpho, Hastra | RWA Credit Infrastructure | PRIME connects HELOC-backed credit markets with Ethereum stablecoin lending liquidity. | [View](https://x.com/SachinHMx/status/2055245342854217972?s=20) |
-<p align="center">
-<a href="https://github.com/Sachin-HMx/product-research">More</a>
-</p>
-
----
-
-## ⛓️‍💥 Protocol upgrades
-| Protocol | Category | Insight | Link |
-|----------|----------|--------|------|
-| abc | abc | abc | abc |
-| abc | abc | abc | abc |
-| abc | abc | abc | abc |
-<p align="center">
-<a href="https://github.com/Sachin-HMx/Protocol-upgrades">More</a>
-</p>
