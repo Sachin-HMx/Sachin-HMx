@@ -18,7 +18,7 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 |------|----------|--------|------|
 | abc | abc | abc | abc |
 | abc | abc | abc | abc |
-| abc | abc | abc | abc |
+| Tokenized Equities | RWA | Tokenized equities shift competition from asset issuance to liquidity distribution and utility | [View](https://x.com/SachinHMx/status/2067171002061103161) |
 | DeFi Credit Layer | Tokenized Credit | DeFi lacks real credit as overcollateralized leverage loops dominate while RWAs enable cash flow backed on-chain lending | [View](https://x.com/SachinHMx/status/2046114797310390414?s=20) |
 <p align="center">
   <a href="https://github.com/Sachin-HMx/research">More</a>
