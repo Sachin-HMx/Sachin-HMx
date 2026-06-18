@@ -30,7 +30,7 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 
 | Protocol | Category | Insight | Link |
 |----------|----------|--------|------|
-| abc | abc | abc | abc |
+| Credible Finance | PayFi | Uses receivable-backed stablecoin liquidity to enable T+0 settlement across global payment rails. | [View](https://x.com/SachinHMx/status/2067582740225237157) |
 | Royco | Yield Tranching | Dynamic Yield Distribution Model combines Adaptive Yield Curves and Observation Periods to dynamically price first-loss capital. | [View](https://x.com/SachinHMx/status/2066850967606431817) |
 | Courtyard, Phygitals, Collector Crypt, Beezie | Tokenized Collectibles | Comparing infrastructure, liquidity, token incentives, and entertainment models across leading TCG collectible protocols. | [View](https://x.com/SachinHMx/status/2054885938384498905?s=20) |
 | Apyx | Onchain Yield | Apyx converts public-market dividend cash flows into scalable onchain yield through Digital Credit markets. | [View](https://x.com/SachinHMx/status/2054135463246811213) |
