@@ -58,10 +58,10 @@ If you have any queries or business-related work, you can reach me on Telegram: 
 
 | Strategy | Project/s | Insight | Link |
 |----------|------------|--------|------|
-| abc | abc | abc | abc |
 | STRC Yield Stack | Strategy, Pendle, Strata | STRC yield is being tokenized, traded, tranched, and leveraged across DeFi. | [View](https://x.com/SachinHMx/status/2068343031502442931) |
 | Structured Credit Yield | Figure, Sentora, Morpho, Hastra | HELOC-backed cash flows are being transformed into on-chain collateralized stablecoin credit markets. | [View](https://x.com/SachinHMx/status/2055573180300038641?s=20) |
 | Risk Tranching Vault | Strata, Midas, Hyperithm | Risk tranching splits a single yield source into layers where junior absorbs losses and earns higher yield premiums | [View](https://x.com/SachinHMx/status/2041051056462025176?s=20) |
+| Yield Discovery Framework | Multi-Protocol | Yield comes from capital flows, incentives, leverage, and market structure. | [View](https://x.com/SachinHMx/status/2040045957228998900) |
 <p align="center">
 <a href="https://github.com/Sachin-HMx/yield-strategies">More</a>
 </p>
