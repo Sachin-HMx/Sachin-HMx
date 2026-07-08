@@ -8,9 +8,10 @@ This GitHub is where I keep all my research in an organized way.
 
 None of my posts are financial advice (NFA). Please do your own research.
 
-For collaborations or business inquiries: 
-Telegram - [@SachinHMx](https://t.me/SachinHMx)
-Mail - hmxsachin@gmail.com
+### Collaborations & Business Inquiries
+
+- Telegram: [@SachinHMx](https://t.me/SachinHMx)
+- Email: hmxsachin@gmail.com
 
 
 ---
