@@ -1,14 +1,17 @@
 # Hi, I’m Sachin
 
-Crypto researcher and investor.
+I research on-chain opportunities across DeFi, RWAs, and meme coins.
 
 I’m active on Crypto Twitter, sharing my research, insights, and opinions.
 
-This GitHub is where I keep all my research in an organized way. If you’re exploring crypto/DeFi or learning, you can go through each section here.
+This GitHub is where I keep all my research in an organized way.
 
 None of my posts are financial advice (NFA). Please do your own research.
 
-If you have any queries or business-related work, you can reach me on Telegram: [@SachinHMx](https://t.me/SachinHMx)
+For collaborations or business inquiries: 
+Telegram - [@SachinHMx](https://t.me/SachinHMx)
+Mail - hmxsachin@gmail.com
+
 
 ---
 
