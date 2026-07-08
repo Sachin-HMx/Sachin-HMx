@@ -4,11 +4,9 @@ I research on-chain opportunities across DeFi, RWAs, and meme coins.
 
 I’m active on Crypto Twitter, sharing my research, insights, and opinions.
 
-This GitHub is where I keep all my research in an organized way.
+This GitHub is where I keep all my research in an organized way. None of my posts are financial advice (NFA). Please do your own research.
 
-None of my posts are financial advice (NFA). Please do your own research.
-
-### Collaborations & Business Inquiries
+### 🤝 Collaborations & Business Inquiries
 
 - Telegram: [@SachinHMx](https://t.me/SachinHMx)
 - Email: hmxsachin@gmail.com
@@ -63,18 +61,6 @@ None of my posts are financial advice (NFA). Please do your own research.
 | Yield Tranching Explained | Structured Yield | Yield tranching splits a single pool into risk layers where junior absorbs losses and senior earns predictable returns | [View](https://x.com/SachinHMx/status/2040393782441771018?s=20) |
 <p align="center">
 <a href="https://github.com/Sachin-HMx/yield-strategies">More</a>
-</p>
-
----
-
-## ⚙️ Technical Breakdowns
-
-| Topic/Protocol | Category | Insight | Link |
-|----------------|----------|--------|------|
-| ERC 8211 Smart Execution Model | Intent Based Execution | ERC 8211 enables dynamic transactions by resolving parameters at runtime eliminating failed executions and leftover dust in DeFi flows | [View](https://x.com/SachinHMx/status/2041787089340264835) |
-| Ethereum L1 zkEVM | ZK Validation Systems | Ethereum replaces re-execution with zk proof validation where blocks are computed once and verified across validators efficiently | [View](https://x.com/SachinHMx/status/2038913345554665790?s=20) |
-<p align="center">
-<a href="https://github.com/Sachin-HMx/technical-breakdowns">More</a>
 </p>
 
 ---
