@@ -65,7 +65,10 @@ This GitHub is where I keep all my research in an organized way. None of my post
 
 ---
 
+## ⚙️ Technical Breakdowns
 
-
+| Protocol | Category | Insight | Link |
+|----------|----------|--------|------|
+Robinhood Chain | Ethereum Layer 2 | Robinhood combines Orbit, blobs, and Ethereum settlement to build a finance-native Ethereum L2. | [View](https://x.com/SachinHMx/status/2077000441284681989?s=20)|
 
 
